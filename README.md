@@ -166,3 +166,5 @@ Hotkey list:
 Emoji: &#127814;
 
     Markup : &#127814;
+
+652115039 Bhupha Phanphaeng (Bhupha) - &#128511;
